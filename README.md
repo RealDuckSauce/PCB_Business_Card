@@ -1,5 +1,7 @@
 # PCB Business Card Particle Simulation
 
+![alt text](https://imgur.com/ZjrBLkI)
+
 This is a personal project, creating a coin-cell powered PCB business card with a simple particle simulation.
 
 ## Design
