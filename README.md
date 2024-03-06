@@ -11,7 +11,7 @@ The pitch and roll of the card are determined by an ADXL335 accelerometer.
 
 All is controlled by an Atemga328p.
 
-The scope of the stimulation includes just one particle in 2D space; for simplicity.
+The scope of the stimulation includes one or more particle in 2D space. Collisions between particles are not modelled due to processing limitations.
 
 ## Assembly
 The circuit may be assesmbled on a breadboard, or manurfactured on a PCB.
